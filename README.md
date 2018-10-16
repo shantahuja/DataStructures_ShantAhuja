@@ -1,7 +1,7 @@
 # DataStructures_ShantAhuja
 Templated Data Structures:
 
-Array, Array2D, Array2DP (Pointer), ArrayQueue, ArrayStack, AVL Tree, BinarySearchTree, DLList (Doubly Linked List), ListQueue, ListStack, DirectoryTree, GenericTree, Graph, HashMap
+Array, Array2D, Array2DP (Pointer), ArrayQueue, ArrayStack, AVL Tree, BinarySearchTree, DLList (Doubly Linked List), ListQueue, ListStack, Graph, HashMap
 
 Templated Sorting Algorithms:
 
