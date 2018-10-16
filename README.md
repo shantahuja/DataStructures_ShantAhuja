@@ -8,4 +8,5 @@ Templated Sorting Algorithms:
 Selection Sort, Bubble Sort, Bubble Sort (improved), Insertion Sort, Heap Sort, Quick Sort, Shell Sort, Merge Sort
 
 Must include "_CRT_SECURE_NO_WARNINGS" in preprocessor in all projects
+
 Ensure testing mode is in x64 if you have a x64 machine
