@@ -10,3 +10,6 @@ Selection Sort, Bubble Sort, Bubble Sort (improved), Insertion Sort, Heap Sort, 
 Must include "_CRT_SECURE_NO_WARNINGS" in preprocessor in all projects
 
 Ensure testing mode is in x64 if you have a x64 machine
+
+If Exceptions are not allowing you compile, consider deleting the string in parentheses when throwing Exception
+"throw Exception()"
