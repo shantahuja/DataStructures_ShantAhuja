@@ -1,0 +1,18 @@
+Detected memory leaks!
+Dumping objects ->
+{1255} normal block at 0x08A570A8, 44 bytes long.
+ Data: <                > 08 00 00 00 02 00 00 00 09 00 00 00 01 00 00 00 
+{1254} normal block at 0x07E23760, 52 bytes long.
+ Data: <                > 08 00 00 00 02 00 00 00 09 00 00 00 01 00 00 00 
+{1225} normal block at 0x08A83088, 4 bytes long.
+ Data: <  d > 84 CC 64 0F 
+{1125} normal block at 0x08A6FDC8, 36 bytes long.
+ Data: <                > 0B 00 00 00 0C 00 00 00 12 00 00 00 14 00 00 00 
+{1111} normal block at 0x08A62550, 8 bytes long.
+ Data: <        > B8 16 A8 08 00 00 00 00 
+{1110} normal block at 0x08A816B8, 16 bytes long.
+ Data: <P%              > 50 25 A6 08 C8 FD A6 08 E8 FD A6 08 EC FD A6 08 
+{146} normal block at 0x08A62CF8, 8 bytes long.
+ Data: <` h     > 60 1A 68 0F 00 00 00 00 
+Object dump complete.
+20 22 25 27 28 

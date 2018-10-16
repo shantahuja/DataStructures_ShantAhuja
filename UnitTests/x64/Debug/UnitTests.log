@@ -1,0 +1,17 @@
+﻿  GraphTest.cpp
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(41): warning C4101: 'ba': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(77): warning C4101: 'ba': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(113): warning C4101: 'ba': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(135): warning C4101: 'ba': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(155): warning C4101: 'ba': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(184): warning C4101: 'ba': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(217): warning C4101: 'ba': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(228): warning C4101: 'Vertex2': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(228): warning C4101: 'Vertex1': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(253): warning C4101: 'ba': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(265): warning C4101: 'Vertex2': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(265): warning C4101: 'Vertex1': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\unittests\graphtest.cpp(285): warning C4101: 'ba': unreferenced local variable
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\datastructures\graph.h(311): warning C4715: 'Graph<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::GetVertex': not all control paths return a value
+c:\users\shant\desktop\datastructures\datastructures_shantahuja\datastructures\vertex.h(73): warning C4715: 'Vertex<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::FindArc': not all control paths return a value
+  UnitTests.vcxproj -> C:\Users\shant\Desktop\DataStructures\DataStructures_ShantAhuja\x64\Debug\UnitTests.dll

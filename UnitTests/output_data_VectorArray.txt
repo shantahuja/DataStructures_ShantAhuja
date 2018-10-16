@@ -1,0 +1,196 @@
+sort type: bruteForceBubbleSort, Vector array
+time elapsed 10K 344
+time elapsed 20K 1531
+time elapsed 30K 3563
+sort type: mergeSortHelper, Vector array
+time elapsed 10K 31
+time elapsed 20K 63
+time elapsed 30K 78
+sort type: heapSort, Vector array
+time elapsed 10K 16
+time elapsed 20K 15
+time elapsed 30K 16
+sort type: flaggedBubbleSort, Vector array
+time elapsed 10K 359
+time elapsed 20K 1594
+time elapsed 30K 3625
+sort type: selectionSort, Vector array
+time elapsed 10K 203
+time elapsed 20K 766
+time elapsed 30K 1734
+sort type: insertionSort, Vector array
+time elapsed 10K 94
+time elapsed 20K 406
+time elapsed 30K 860
+sort type: shell sort, Vector array
+time elapsed 10K 0
+time elapsed 20K 16
+time elapsed 30K 0
+sort type: quickSortHelper, Vector array
+time elapsed 10K 16
+time elapsed 20K 31
+time elapsed 30K 47
+sort type: bruteForceBubbleSort, Vector array
+time elapsed 10K 375
+time elapsed 20K 1640
+time elapsed 30K 3782
+sort type: bruteForceBubbleSort, Vector array
+time elapsed 10K 359
+time elapsed 20K 1547
+time elapsed 30K 3578
+sort type: mergeSortHelper, Vector array
+time elapsed 10K 16
+time elapsed 20K 47
+time elapsed 30K 78
+sort type: heapSort, Vector array
+time elapsed 10K 0
+time elapsed 20K 15
+time elapsed 30K 32
+sort type: flaggedBubbleSort, Vector array
+time elapsed 10K 359
+time elapsed 20K 1594
+time elapsed 30K 3734
+sort type: selectionSort, Vector array
+time elapsed 10K 203
+time elapsed 20K 890
+time elapsed 30K 2016
+sort type: insertionSort, Vector array
+time elapsed 10K 94
+time elapsed 20K 390
+time elapsed 30K 875
+sort type: shell sort, Vector array
+time elapsed 10K 0
+time elapsed 20K 15
+time elapsed 30K 0
+sort type: quickSortHelper, Vector array
+time elapsed 10K 16
+time elapsed 20K 31
+time elapsed 30K 63
+sort type: bruteForceBubbleSort, Vector array
+time elapsed 10K 360
+time elapsed 20K 1562
+time elapsed 30K 3625
+sort type: mergeSortHelper, Vector array
+time elapsed 10K 31
+time elapsed 20K 47
+time elapsed 30K 63
+sort type: heapSort, Vector array
+time elapsed 10K 0
+time elapsed 20K 15
+time elapsed 30K 31
+sort type: flaggedBubbleSort, Vector array
+time elapsed 10K 375
+time elapsed 20K 1562
+time elapsed 30K 3844
+sort type: selectionSort, Vector array
+time elapsed 10K 203
+time elapsed 20K 781
+time elapsed 30K 1734
+sort type: insertionSort, Vector array
+time elapsed 10K 94
+time elapsed 20K 406
+time elapsed 30K 875
+sort type: shell sort, Vector array
+time elapsed 10K 0
+time elapsed 20K 16
+time elapsed 30K 0
+sort type: quickSortHelper, Vector array
+time elapsed 10K 16
+time elapsed 20K 31
+time elapsed 30K 47
+sort type: bruteForceBubbleSort, Vector array
+time elapsed 10K 375
+time elapsed 20K 1860
+time elapsed 30K 3922
+sort type: mergeSortHelper, Vector array
+time elapsed 10K 16
+time elapsed 20K 62
+time elapsed 30K 94
+sort type: heapSort, Vector array
+time elapsed 10K 15
+time elapsed 20K 16
+time elapsed 30K 31
+sort type: flaggedBubbleSort, Vector array
+time elapsed 10K 422
+time elapsed 20K 1750
+time elapsed 30K 3921
+sort type: selectionSort, Vector array
+time elapsed 10K 219
+time elapsed 20K 859
+time elapsed 30K 1844
+sort type: insertionSort, Vector array
+time elapsed 10K 109
+time elapsed 20K 469
+time elapsed 30K 953
+sort type: shell sort, Vector array
+time elapsed 10K 0
+time elapsed 20K 0
+time elapsed 30K 15
+sort type: quickSortHelper, Vector array
+time elapsed 10K 16
+time elapsed 20K 31
+time elapsed 30K 63
+sort type: bruteForceBubbleSort, Vector array
+time elapsed 10K 359
+time elapsed 20K 1547
+time elapsed 30K 3594
+sort type: mergeSortHelper, Vector array
+time elapsed 10K 31
+time elapsed 20K 31
+time elapsed 30K 78
+sort type: heapSort, Vector array
+time elapsed 10K 0
+time elapsed 20K 16
+time elapsed 30K 31
+sort type: flaggedBubbleSort, Vector array
+time elapsed 10K 390
+time elapsed 20K 1610
+time elapsed 30K 3609
+sort type: selectionSort, Vector array
+time elapsed 10K 188
+time elapsed 20K 781
+time elapsed 30K 1719
+sort type: insertionSort, Vector array
+time elapsed 10K 93
+time elapsed 20K 407
+time elapsed 30K 890
+sort type: shell sort, Vector array
+time elapsed 10K 0
+time elapsed 20K 0
+time elapsed 30K 16
+sort type: quickSortHelper, Vector array
+time elapsed 10K 0
+time elapsed 20K 47
+time elapsed 30K 46
+sort type: bruteForceBubbleSort, Vector array
+time elapsed 10K 360
+time elapsed 20K 1578
+time elapsed 30K 3562
+sort type: mergeSortHelper, Vector array
+time elapsed 10K 16
+time elapsed 20K 47
+time elapsed 30K 78
+sort type: heapSort, Vector array
+time elapsed 10K 0
+time elapsed 20K 16
+time elapsed 30K 31
+sort type: flaggedBubbleSort, Vector array
+time elapsed 10K 360
+time elapsed 20K 1609
+time elapsed 30K 3641
+sort type: selectionSort, Vector array
+time elapsed 10K 187
+time elapsed 20K 766
+time elapsed 30K 1719
+sort type: insertionSort, Vector array
+time elapsed 10K 93
+time elapsed 20K 407
+time elapsed 30K 875
+sort type: shell sort, Vector array
+time elapsed 10K 0
+time elapsed 20K 0
+time elapsed 30K 15
+sort type: quickSortHelper, Vector array
+time elapsed 10K 0
+time elapsed 20K 32
+time elapsed 30K 46

@@ -1,0 +1,2 @@
+sort type: brute force bubble sort, T array
+time elapsed0

@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  UnitTest.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\LPCordova\Source\Workspaces\DataStructures\DataStructures\Release\UnitTests.lib and object C:\Users\LPCordova\Source\Workspaces\DataStructures\DataStructures\Release\UnitTests.exp
+  Generating code
+  All 118 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UnitTests.vcxproj -> C:\Users\LPCordova\Source\Workspaces\DataStructures\DataStructures\Release\UnitTests.dll

@@ -1,0 +1,49 @@
+﻿  stdafx.cpp
+  ArrayTest.cpp
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\exception.h(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\exception.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\exception.h(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\exception.h(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\array.h(54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\array.h(46): note: while compiling class template member function 'Array<int>::Array(const Array<int> &)'
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\unittests\arraytest.cpp(89): note: see reference to function template instantiation 'Array<int>::Array(const Array<int> &)' being compiled
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\unittests\arraytest.cpp(18): note: see reference to class template instantiation 'Array<int>' being compiled
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\array.h(41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\array.h(34): note: while compiling class template member function 'Array<int>::Array(::size_t,int)'
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\unittests\arraytest.cpp(34): note: see reference to function template instantiation 'Array<int>::Array(::size_t,int)' being compiled
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\array.h(76): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\array.h(70): note: while compiling class template member function 'Array<int> &Array<int>::operator =(const Array<int> &)'
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\unittests\arraytest.cpp(111): note: see reference to function template instantiation 'Array<int> &Array<int>::operator =(const Array<int> &)' being compiled
+  Array2DTest.cpp
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\exception.h(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\exception.h(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\exception.h(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\exception.h(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\array.h(76): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\array.h(70): note: while compiling class template member function 'Array<T> &Array<T>::operator =(const Array<T> &)'
+          with
+          [
+              T=int
+          ]
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\array2d.h(50): note: see reference to function template instantiation 'Array<T> &Array<T>::operator =(const Array<T> &)' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\datastructures\array2d.h(45): note: while compiling class template member function 'Array2D<int>::Array2D(const Array2D<int> &)'
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\unittests\array2dtest.cpp(28): note: see reference to function template instantiation 'Array2D<int>::Array2D(const Array2D<int> &)' being compiled
+  c:\users\owner\source\repos\datastructures\datastructures_shantahuja\unittests\array2dtest.cpp(19): note: see reference to class template instantiation 'Array2D<int>' being compiled
+  PairTest.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+ArrayTest.obj : error LNK2005: "public: void __cdecl Exception::setMessage(char *)" (?setMessage@Exception@@QEAAXPEAD@Z) already defined in ArrayTest.obj
+ArrayTest.obj : error LNK2005: "public: char const * __cdecl Exception::getMessage(void)" (?getMessage@Exception@@QEAAPEBDXZ) already defined in ArrayTest.obj
+     Creating library C:\Users\Owner\Source\Repos\DataStructures\DataStructures_ShantAhuja\x64\Release\UnitTests.lib and object C:\Users\Owner\Source\Repos\DataStructures\DataStructures_ShantAhuja\x64\Release\UnitTests.exp
+C:\Users\Owner\Source\Repos\DataStructures\DataStructures_ShantAhuja\x64\Release\UnitTests.dll : fatal error LNK1169: one or more multiply defined symbols found
